@@ -2,12 +2,12 @@
   "name": "spartan-syntax",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "A syntax theme of utility.",
+  "description": "A minimal Atom syntax theme.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/spartan-syntax",
+  "repository": "https://github.com/mybuddymichael/spartan-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
