@@ -1,7 +1,7 @@
 {
   "name": "spartan-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A minimal Atom syntax theme.",
   "keywords": [
     "syntax",
